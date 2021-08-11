@@ -6,4 +6,4 @@
  git branch name
  git checkout
  git status
- 
+ git pull
